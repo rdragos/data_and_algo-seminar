@@ -1,0 +1,119 @@
+% This is LLNCS.DEM the demonstration file of
+% the LaTeX macro package from Springer-Verlag
+% for Lecture Notes in Computer Science,
+% version 2.4 for LaTeX2e as of 16. April 2010
+%
+\documentclass{llncs}
+%
+\usepackage{makeidx}  % allows for indexgeneration
+\usepackage{llncsdoc}
+\usepackage{algorithmic}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{cite}
+\usepackage{amsmath}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[parfill]{parskip} 
+\usepackage{float}
+\usepackage{caption}
+%\restylefloat{table}
+
+\newcommand{\Mod}[1]{\ (\text{mod}\ #1)}
+\newcommand{\todo}[1]{{\color{red}{TODO #1}}}
+\captionsetup[table]{name=Tabel}
+%\restylefloat{table}
+%
+\begin{document}
+\pagestyle{empty}
+%\centerline{\bf UNGIVERSITY OF BUCHAREST}
+
+%\centerline{\bf FACULTY OF MATHEMATICS AND COMPUTER SCIENCE}
+
+%
+%
+\title{Data Structures and Algorithms}
+%
+\titlerunning{Data Structures and Algorithms}  % abbreviated title (for running head)
+%                                     also used for the TOC unless
+%                                     \toctitle is used
+%
+\author{Drago\c{s} Alin Rotaru}
+%TODO - nume final
+\authorrunning{and D.A.Rotaru} % abbreviated author list (for running head)
+%
+%%%% list of authors for the TOC (use if author list has to be modified)
+%\tocauthor{}
+%
+\institute{Computer Science, University of Bucharest, Romania\\
+}
+
+
+\maketitle              % typeset the title of the contribution
+
+
+\newpage
+%----------------------------------------------------------------
+%----------------------------------------------------------------
+%----------------------------------------------------------------
+%----------------------------------------------------------------
+%----------------------------------------------------------------
+
+\section{Introduction}
+\label{sec:intro}
+
+These seminar notes contain my overview of the Data Structures and Algorithms course held at University of Bucharest. Because the course is based on heavy theoretic lectures, I tried a more practical approach to present some of the notions by discussing problems which arise natural from the main course.
+
+Most of the problems come from a romanian website specialized on programming contests as well as codeforces or topcoder \cite{website:infoarena, website:topcoder, website:codeforces}. Of course, there are more interesting problems to tackle, but unfortunately I limit to the course material although sometimes I will talk about some ad-hoc problems.
+
+
+\section{Seminar I}
+\label{sec:seminar1}
+
+Synthesise first 2 courses:
+\begin{itemize}
+	\item Basic notions of time and memory complexity.
+	\item Stacks and Queues.
+\end{itemize}
+
+\subsection{Sketch}
+	What is an algorithm? How can we measure the time complexity of a program? Examples (Choosing every pair of elements and erathosthene sieve).
+	Introduction to stacks and queues. Details about their implementation and a short tutorial in STL. Can also talk about circular queues and double ended queues.
+
+\subsection{Partial Sums without subtracting}
+
+\subsection{Checking if an expression is has brackets in right order}
+
+\subsection{Emulate a queue using 2 stacks}
+
+\subsection{Editor \cite{website:infoarena/editor}}
+
+\subsection{Alee \cite{website:infoarena/alee}}
+
+\subsection{Trompeta \cite{website:infoarena/trompeta}}
+
+\subsection{Tsunami \cite{website:infoarena/tsunami}}
+
+\subsection{Take-Out \cite{website:edu-pl:take-out}}
+
+\subsection{Devices}
+	You are given a row of n devices, each consuming some subset of k<=8 different resources when turned on, and producing some amount of energy when turned on. For each l from 1 to n you need to find the smallest r such that it's possible to turn on some devices from the segment [l;r] such that no two devices turned on consume the same resource, and that the total energy of the devices turned on is at least z \cite{website:petr1}.
+
+\section{Seminar II}
+\label{sec:seminar2}
+
+\begin{itemize}
+	\item Divide and conquer, merge-sort, estimating complexity
+	\item Binary search, fast exponentation and matrix multiplication
+\end{itemize}
+%
+% ---- Bibliography ----
+%
+%\begin{thebibliography}{5}
+%
+\clearpage
+\bibliographystyle{splncs}
+\bibliography{llncs}
+%\end{thebibliography}
+
+\end{document}
