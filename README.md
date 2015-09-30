@@ -1,1 +1,1 @@
-# data_and_algo-seminar
+# My Notes for Algorithm and Data Structures Seminar
