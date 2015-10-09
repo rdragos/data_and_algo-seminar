@@ -3,4 +3,6 @@
 !*.tex
 !*.pdf
 !*.bib
+!*.bbl
+!*.bst
 !.gitignore
