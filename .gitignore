@@ -5,4 +5,5 @@
 !*.bib
 !*.bbl
 !*.bst
+!*.md
 !.gitignore
