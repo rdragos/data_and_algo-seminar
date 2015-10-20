@@ -23,6 +23,7 @@ Laborator 2 - :
 
 
 Laborator 3 - :
+
 1. Cautare binara, Ridicare la putere in timp logaritmic, Exponentiere
    de matrici.
 2. [Ridicare la putere in timp
