@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{website:infoarena}
 WebSite:
@@ -38,5 +38,57 @@ WebSite:
 WebSite:
 \newblock Devices (2015) Last Accessed: October, 2015,
   \url{http://petr-mitrichev.blogspot.com/2015/06/a-week-with-h2.html}.
+
+\bibitem{website:infoarena/inv}
+WebSite:
+\newblock Inv \url{https://www.infoarena.ro/problema/inv}.
+
+\bibitem{website:infoarena/stergeri}
+WebSite:
+\newblock Stergeri \url{https://www.infoarena.ro/problema/stergeri}.
+
+\bibitem{website:infoarena/muzeu}
+WebSite:
+\newblock muzeu \url{https://www.infoarena.ro/problema/muzeu}.
+
+\bibitem{website:infoarena/binar}
+WebSite:
+\newblock Binar \url{https://www.infoarena.ro/problema/binar}.
+
+\bibitem{website:infoarena/classictask}
+WebSite:
+\newblock Classictask \url{https://www.infoarena.ro/problema/classictask}.
+
+\bibitem{website:infoarena/nrtri}
+WebSite:
+\newblock nrtri \url{https://www.infoarena.ro/problema/nrtri}.
+
+\bibitem{website:infoarena/sdo}
+WebSite:
+\newblock Statistici de ordine \url{https://www.infoarena.ro/problema/sdo}.
+
+\bibitem{website:infoarena/loto}
+WebSite:
+\newblock loto \url{https://www.infoarena.ro/problema/loto}.
+
+\bibitem{website:infoarena/secv6}
+WebSite:
+\newblock Secv6 \url{https://www.infoarena.ro/problema/secv6}.
+
+\bibitem{website:timus/gcd}
+WebSite:
+\newblock Gcd \url{http://acm.timus.ru/problem.aspx?space=1$num=1846$}.
+
+\bibitem{website:infoarena/matrice2}
+WebSite:
+\newblock matrice2 \url{https://www.infoarena.ro/problema/matrice2}.
+
+\bibitem{website:infoarena/cabane}
+WebSite:
+\newblock cabane \url{https://www.infoarena.ro/problema/cabane}.
+
+\bibitem{website:infoarena/minim2}
+WebSite:
+\newblock minim2 \url{https://www.infoarena.ro/problema/minim2}.
 
 \end{thebibliography}
