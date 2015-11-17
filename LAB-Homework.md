@@ -50,6 +50,10 @@ Laborator 5 - :
 Laborator 6 :-
 
 1. Hashuri. Potrivirea sirurilor.
+2. [Hashuri] (http://www.infoarena.ro/problema/hashuri).
+3. [Loto] (http://www.infoarena.ro/problema/loto).
+4. [Strmatch] (http://www.infoarena.ro/problema/strmatch).
+5. [Per] (http://www.infoarena.ro/problema/per)
 
 
 Laborator 7 :-
