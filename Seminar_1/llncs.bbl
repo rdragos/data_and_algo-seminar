@@ -71,13 +71,27 @@ WebSite:
 WebSite:
 \newblock loto \url{https://www.infoarena.ro/problema/loto}.
 
+\bibitem{website:leetcode/merge}
+WebSite:
+\newblock K sorted lists
+  \url{https://leetcode.com/problems/merge-k-sorted-lists/}.
+
+\bibitem{website:stanford/binarytrees}
+WebSite:
+\newblock Stanford exercises (2015) Last Accessed: November, 2015,
+  \url{http://cslibrary.stanford.edu/110/BinaryTrees.html}.
+
+\bibitem{website:wiki:avl}
+WebSite:
+\newblock Avl wiki (2015) \url{https://en.wikipedia.org/wiki/AVL_tree}.
+
 \bibitem{website:infoarena/secv6}
 WebSite:
 \newblock Secv6 \url{https://www.infoarena.ro/problema/secv6}.
 
 \bibitem{website:timus/gcd}
 WebSite:
-\newblock Gcd \url{http://acm.timus.ru/problem.aspx?space=1$num=1846$}.
+\newblock Gcd \url{http://acm.timus.ru/problem.aspx?space=1&num=1846}.
 
 \bibitem{website:infoarena/matrice2}
 WebSite:

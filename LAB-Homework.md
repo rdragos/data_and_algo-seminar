@@ -58,11 +58,13 @@ Laborator 6 :-
 
 Laborator 7 :-
 
-1. Coduri Huffman
+1. Arbori binari de cautare. Set-uri. Multiset-uri.
+2. [Sliding Window](http://www.infoarena.ro/problema/slidingwindow)
+3. [Facebook](http://www.infoarena.ro/problema/facebook)
 
 Laborator 8 :-
 
-1. Arbori de intervale, AVL.
+1. Coduri Huffman.
 
 Laborator 9 :-
 
