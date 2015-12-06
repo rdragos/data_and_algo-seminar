@@ -85,6 +85,27 @@ WebSite:
 WebSite:
 \newblock Avl wiki (2015) \url{https://en.wikipedia.org/wiki/AVL_tree}.
 
+\bibitem{website:wiki:arithmetic-encoding}
+WebSite:
+\newblock Arithmetic encoding wiki (2015)
+  \url{https://en.wikipedia.org/wiki/Arithmetic_coding}.
+
+\bibitem{website:wiki:LZW}
+WebSite:
+\newblock Lzw wiki (2015)
+  \url{https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch}.
+
+\bibitem{website:WebP}
+WebSite:
+\newblock Webp image format (2015)
+  \url{https://developers.google.com/speed/webp/}.
+
+\bibitem{website:ArithmeticEncoding}
+WebSite:
+\newblock Arithmetic encoding - introductive course on information theory
+  (2015)
+  \url{http://www.ocw.usu.edu/Electrical_and_Computer_Engineering/Information_Theory/lecture7_1.htm}.
+
 \bibitem{website:infoarena/secv6}
 WebSite:
 \newblock Secv6 \url{https://www.infoarena.ro/problema/secv6}.

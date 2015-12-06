@@ -78,8 +78,6 @@ Synthesise first 2 courses:
 	What is an algorithm? How can we measure the time complexity of a program? Examples (Choosing every pair of elements and erathosthene sieve).
 	Introduction to stacks and queues. Details about their implementation and a short tutorial in STL. Can also talk about circular queues and double ended queues.
 
-\subsection{Partial Sums without subtracting}
-
 \subsection{Checking if an expression has brackets in right order}
 
 \subsection{Emulate a queue using 2 stacks}
@@ -151,6 +149,29 @@ Classic sort algorithm, this time using heaps. Almost sorted list, can you sort 
 Stanford exercises. \cite{website:stanford/binarytrees}
 
 Wiki page about AVL. \cite{website:wiki:avl}
+
+Get K'th element from a BST. Construct BST from an array.
+
+
+\section{Seminar VI}
+
+\subsection{Huffman Coding}
+
+\textbf{General problem}:
+
+Given an alphabet $\mathcal{A} = \{a_1, \dots, a_n\}$ and a set of weights $\mathcal{W} = \{w_1, \dots, w_n \}$ compute a set of codewords $\mathcal{C} = \{c_1, \dots, c_n \}$ such that $\sum\limits_{i=1}^n length(c_i) * w_i$ is minimum.
+
+
+\subsection{Additional Coding Methods}
+
+Other methods such as LZW and arithmetic encoding have a more improved encoding scheme \cite{website:wiki:arithmetic-encoding, website:wiki:LZW}. Unfortunately, these $2$ schemes were patented and people should pay the owners to use them. Recently they went into public domain.
+
+LZW is used for the GIF image format. Arithmetic encoding is currently used in WebP, an image format developed by Google \cite{website:WebP}.
+
+LZW main idea is similar with an online hashing algorithm. Encode each character into a dictionary. Each time take the prefix string $W$ which was already encoded. Concatenate $W$ with the next character in the string and add it to dictionary of encoded strings.
+
+Arithmetic encoding uses a probability model, encodings are values between $[0, 1]$ on the real line \cite{website:ArithmeticEncoding}.
+
 %subsec to cover: divide and conquer, recurrence relations, binary search trees (AVL), huffman encoding, quick sort, heapsort, hashing, graphs, mst
 %some problems as backups:
 %telina: have a string s(1)...s(n): choose for each i (n->1) if you keep the string or reverse it's suffix
