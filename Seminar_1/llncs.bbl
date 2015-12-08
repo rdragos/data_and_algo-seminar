@@ -106,6 +106,14 @@ WebSite:
   (2015)
   \url{http://www.ocw.usu.edu/Electrical_and_Computer_Engineering/Information_Theory/lecture7_1.htm}.
 
+\bibitem{website:infoarena/slidingwindow}
+WebSite:
+\newblock Slidingwindow \url{https://www.infoarena.ro/problema/slidingwindow}.
+
+\bibitem{website:infoarena/scandura}
+WebSite:
+\newblock Scandura \url{https://www.infoarena.ro/problema/scandura}.
+
 \bibitem{website:infoarena/secv6}
 WebSite:
 \newblock Secv6 \url{https://www.infoarena.ro/problema/secv6}.
