@@ -1,4 +1,4 @@
-# [NEWS] Seminar submissions *deadline* is on *06.01.2016*, 23:59.
+# [NEWS] Seminar submissions **deadline**: **06.01.2016, 23:59**.
 
 # Please complete the feedback formular. Thank you!
 
