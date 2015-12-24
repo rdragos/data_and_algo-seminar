@@ -1,4 +1,4 @@
-# [NEWS] Seminar submissions **deadline**: **06.01.2016, 23:59**.
+# [NEWS] Seminar submissions **deadline**: **06.01.2016, 23:59**. Email me to *r dot dragos01 at gmail dot com* only if you solved at least one seminar entirely.
 
 # Please complete the feedback formular. Thank you!
 
